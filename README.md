@@ -30,7 +30,8 @@ AI-assisted module for generating ERP views from natural language queries
 - Prompt System
 
 ## sample
-![views-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8f965c59-8557-4f4b-bc1e-8fc57a595eec)
+![views2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dd7f98c3-e749-4943-9b2b-dcb762f2a96e)
+
 
 ---
 
